@@ -1,0 +1,4 @@
+console.log('5' + 10);
+
+The code logs '510' instead of 15 because it implicitly coerces the 10 into a
+string. Then it performs string concatenation.

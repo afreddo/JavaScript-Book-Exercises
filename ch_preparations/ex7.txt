@@ -1,0 +1,10 @@
+Which satisfy style guidelines for function names?
+
+index           Y
+CatName         Y
+snake_case      
+lazyDog         Y
+quick_Fox       
+1stCharacter    
+operand3        Y
+BIG_NUMBER      

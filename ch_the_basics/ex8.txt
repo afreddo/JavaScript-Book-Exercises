@@ -1,0 +1,4 @@
+Trying to access an array element greater than or equal to the length of the 
+array will throw an error because the .length function is showing the total
+number of elements but the indexing starts at zero so the last element is in 
+position [2]. This means element [foo.length] is not in the array.

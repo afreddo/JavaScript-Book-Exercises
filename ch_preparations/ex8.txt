@@ -1,0 +1,10 @@
+Which satisfy style guidelines for constants?
+
+index           
+CatName         
+snake_case      
+lazyDog         
+quick_Fox       
+1stCharacter    
+operand3        
+BIG_NUMBER      Y
