@@ -1,0 +1,3 @@
+It tells you that greeting is not defined and that it occurred on row 4 and 
+at character 15 in exercise2.js. It also tells you that the error occured when
+the function was called on line 13.

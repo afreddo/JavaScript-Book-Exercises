@@ -1,0 +1,2 @@
+exception handling is the process of handling errors. You can use it by
+utilizing a try/catch block.
